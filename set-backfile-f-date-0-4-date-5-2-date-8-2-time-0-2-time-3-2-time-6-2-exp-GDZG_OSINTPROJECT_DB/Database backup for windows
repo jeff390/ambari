@@ -1,2 +1,0 @@
-set backfile=f:\%date:~0,4%%date:~5,2%%date:~8,2%%time:~0,2%%time:~3,2%%time:~6,2%
-exp GDZG_OSINTPROJECT_DB/tdtdtd@orcl file=%backfile%.dmp log=%backfile%.log
